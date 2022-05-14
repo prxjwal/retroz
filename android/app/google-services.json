@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139687306310",
+    "project_id": "retroz-57916",
+    "storage_bucket": "retroz-57916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139687306310:android:2a19e6f38234b866c9d647",
+        "android_client_info": {
+          "package_name": "com.example.retroz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139687306310-tdjg3aqg9d19h6kupvhupnp977r3c7rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JU6o9E_1ysukFplfl_OLVD1czhcZDoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139687306310-tdjg3aqg9d19h6kupvhupnp977r3c7rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
